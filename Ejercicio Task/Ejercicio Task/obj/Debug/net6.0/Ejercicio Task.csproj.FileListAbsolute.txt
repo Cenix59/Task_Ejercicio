@@ -1,0 +1,15 @@
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.csproj.AssemblyReference.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.AssemblyInfoInputs.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.AssemblyInfo.cs
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.csproj.CoreCompileInputs.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.exe
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.deps.json
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.runtimeconfig.json
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\bin\Debug\net6.0\Ejercicio Task.pdb
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\refint\Ejercicio Task.dll
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.pdb
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\Ejercicio Task.genruntimeconfig.cache
+D:\Escuela ET24 6to 6ta\Programación sobre redes\Concurrencias\Ejercicio Task\Ejercicio Task\obj\Debug\net6.0\ref\Ejercicio Task.dll
